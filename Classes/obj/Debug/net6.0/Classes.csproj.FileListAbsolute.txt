@@ -1,0 +1,15 @@
+/Users/ryan/Documents/Builds/C#-Builds/tutorials/Classes/Classes/bin/Debug/net6.0/Classes
+/Users/ryan/Documents/Builds/C#-Builds/tutorials/Classes/Classes/bin/Debug/net6.0/Classes.deps.json
+/Users/ryan/Documents/Builds/C#-Builds/tutorials/Classes/Classes/bin/Debug/net6.0/Classes.runtimeconfig.json
+/Users/ryan/Documents/Builds/C#-Builds/tutorials/Classes/Classes/bin/Debug/net6.0/Classes.dll
+/Users/ryan/Documents/Builds/C#-Builds/tutorials/Classes/Classes/bin/Debug/net6.0/Classes.pdb
+/Users/ryan/Documents/Builds/C#-Builds/tutorials/Classes/Classes/obj/Debug/net6.0/Classes.csproj.AssemblyReference.cache
+/Users/ryan/Documents/Builds/C#-Builds/tutorials/Classes/Classes/obj/Debug/net6.0/Classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ryan/Documents/Builds/C#-Builds/tutorials/Classes/Classes/obj/Debug/net6.0/Classes.AssemblyInfoInputs.cache
+/Users/ryan/Documents/Builds/C#-Builds/tutorials/Classes/Classes/obj/Debug/net6.0/Classes.AssemblyInfo.cs
+/Users/ryan/Documents/Builds/C#-Builds/tutorials/Classes/Classes/obj/Debug/net6.0/Classes.csproj.CoreCompileInputs.cache
+/Users/ryan/Documents/Builds/C#-Builds/tutorials/Classes/Classes/obj/Debug/net6.0/Classes.dll
+/Users/ryan/Documents/Builds/C#-Builds/tutorials/Classes/Classes/obj/Debug/net6.0/refint/Classes.dll
+/Users/ryan/Documents/Builds/C#-Builds/tutorials/Classes/Classes/obj/Debug/net6.0/Classes.pdb
+/Users/ryan/Documents/Builds/C#-Builds/tutorials/Classes/Classes/obj/Debug/net6.0/Classes.genruntimeconfig.cache
+/Users/ryan/Documents/Builds/C#-Builds/tutorials/Classes/Classes/obj/Debug/net6.0/ref/Classes.dll
